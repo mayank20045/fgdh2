@@ -1,0 +1,69 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "name": "Kodikkarai Lighthouse",
+            "location": "Kodikkarai, Tamil Nadu",
+            "address": "Kodikkarai Lighthouse, Kodikkarai-614807",
+            "description": "There wasn’t any Lighthouse provided at the site prior to the present Lighthouse. The point Calimere light about 5 Km East of Kodikkarai, was the only navigational aid for assisting the mariners. A new Lighthouse was planned during 1994-95 and soon the construction began. The tower was completed in 1997.The ERB equipment supplied by M/s.ANA Navaids Ltd., New Delhi, was installed inside a 2.0m dia Lantern house.There was regular ferry service between Kodikkarai and Kankesanthurai port of Srilanka This was discontinued during 1960’s."
+        },
+        {
+            "id": 2,
+            "name": "Pichavaram Mangrove Forest",
+            "location": "Pichavaram, Tamil Nadu",
+            "address": "Chidambaram, Killai, Post, Pichavaram, Tamil Nadu 608102",
+            "description": "Pichavaram mangrove forest is located between two prominent estuaries, the Vellar estuary in the north and Coleroon estuary in the south. The Vellar-Coleroon estuarine complex forms the Killai backwater and Pichavaram mangroves. The backwaters are interconnected by the Vellar and Coleroon river systems and offer abundant scope for water sports such as rowing, kayaking and canoeing. The Pichavaram forest not only offers waterscape and backwater cruises, but also another very rare sight] – the mangrove forest trees are permanently rooted in a few feet of water. There are more than 400 water routes available for boating."
+        },
+        {
+            "id": 3,
+            "name": "Tharangambadi maritime museum",
+            "location": "Tharangambadi, Tamil Nadu",
+            "address": "Rani Street, Tharangambadi 609313 India",
+            "description": "The Tharangambadi maritime museum has displays of preserved sea life, shells, models of boat, utensils, costumes, paintings and little more that were used by Danes. They also have a small Indian stamp collection. The Danish Commander’s House is an airy 18th-century bungalow. It was restored by the Danish Tranquebar Association. It now houses the Tranquebar Maritime Museum. In it stories of the sea are found. An old wooden ship occupies an important place. It is surrounded by an odd collection of ships parts, old trunks, and the skeletal remains of marine creatures, and bits and bobs collected from Danish ships. Glass objects, Chinese tea jars, swords, daggers, spears etc., are found. Many of these objects are from the sea. Kattumarams, Horse teeth, sea conch are also found here."
+        },
+        {
+            "id": 4,
+            "name": "Danish Fort",
+            "location":"Tharangambadi, Tamil Nadu",
+            "address": "Tharangambadi, Tamil Nadu 609313",
+            "description": "Fort Dansborg (Danish: Dansborg), locally called Danish Fort (Tamil: டேனியக் கோட்டை, romanized: Ṭēṉiyak kōṭṭai), is a Danish fort located in the shores of Bay of Bengal in Tranquebar (Tharangambadi) in the South Indian state of Tamil Nadu. Fort Dansborg was built in the land ceded by Thanjavur king Ragunatha Nayak in an agreement with Danish Admiral Ove Gjedde in 1620 and acted as the base for Danish settlement in the region during the early 17th century. The fort is the second largest Danish fort after Kronborg. The fort was sold to the British in 1845 and along with Tranquebar, the fort lost its significance as the town was not an active trading post for the British. After India's independence in 1947, the fort was used as an inspection bungalow by the state government until 1978 when its archaeology department took control of the fort. The fort is now used as a museum where the major artifacts of the fort and the Danish empire are displayed."
+        },
+        {
+            "id": 5,
+            "name": "Pattinacherry Beach",
+            "location": "Karaikal, Puducherry",
+            "address": "pattinacherry sea shore, Karaikal, Puducherry 609606",
+            "description": "Situated in a bustling area, the store is known for offering a diverse range of products and services to meet the varied needs of its customers. The strategic location in Karaikal, a city in the state of puducherry, makes it accessible and convenient for local residents and visitors. pattinacherry sea shore is committed to providing quality products and excellent customer service, making it a popular shopping destination in the region."
+        },{
+            "id": 6,
+            "name": "Yercaud Hill Station",
+            "location": "Yercaud, tamil Nadu",
+            "address": "Salem, Tamil Nadu",
+            "description": "Yercaud is a hill station town in the south Indian state of Tamil Nadu. It lies in the Shevaroy Hills, known for their orange groves, and coffee, fruit and spice plantations. Yercaud Lake has a boathouse, and is surrounded by gardens and woods. On the lake’s eastern shore, Anna Park has local plants and a Japanese garden with bonsai. To the southwest, Lady’s Seat vantage point has a watchtower with a telescope"
+        },{
+            "id": 7,
+            "name": "Thiruparappu Waterfalls",
+            "location": "Kaniyakumari, Tamil Nadu",
+            "address": "Kaniyakumari, tamil Nadu",
+            "description": "Thiruparappu is located about 55 kilometers away from kanniyakumari. The Kodayar makes its descend at Tirparappu and the water fall at this place is about 13km. from Pechiparai dam. The river bed is rocky and about 300 feet in length. The water falls from a height of nearly 50 feet and the water flows for about seven months in a year. The whole bed above the falls is one rocky mass which extends up to a distance of about quarter of a kilometer upstream where the famous Thirparappu weir has been constructed for supplying water to the paddy fields. On either side of the river, on the left bank of the river in between the water falls and the weir, there is a temple dedicated to Siva enclosed by strong fortification. The District Administration has constructed a swimming pool for children over here which is very popular among the children."
+        },{
+            "id": 8,
+            "name": "Kalvarayan Hills",
+            "location": "Western ghats, Tamil Nadu",
+            "address": "Western ghats, Tamil Nadu",
+            "description": "The Kalrayan Hills are a major range of hills situated in the Eastern Ghats of the southern Indian state of Tamil Nadu. Along with the Pachaimalai, Alavaimalai, Javadi, and Shevaroy hills, they separate the Kaveri River basin to the south from the Palar River basin to the north."
+        },{
+            "id": 9,
+            "name": "Point Calimere Beach",
+            "location": "Nagapattinam, Tamil Nadu",
+            "address": "Vedaranyam, Tamil Nadu",
+            "description": "Point Calimere is one of the beaches nearby Vedaranyam Tamil Nadu, it has two lighthouses one old one developed in the British Rule Era and the other one is a newer modern era lighthouse. Spectacular views can be observed here with many different species of birds, especially during the months of October and November."
+        },{
+            "id": 10,
+            "name": "Nagore Beach",
+            "location": "Nagapattinam, Tamil Nadu",
+            "address": "Nagapattinam, Tamil Nadu",
+            "description": "Nagore is a town in the Nagapattinam district along the shore of Bay of Bengal. It is famous for pilgrimage located approximately 12 km south of Karaikal and 5 km north of Nagapattinam.It was ruled by the Pallava King Rajasimha during 690-728A D. Nagore Dargah is a famous shrine where people from all religions come here to get blessings. Tiruvarur, Mayiladuthurai, Muthupet, Adirampattinam are nearby towns."
+        }
+    ]
+}
